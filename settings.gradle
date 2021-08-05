@@ -1,0 +1,2 @@
+rootProject.name = "About Inspiration"
+include ':app'
